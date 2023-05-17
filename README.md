@@ -4,7 +4,7 @@ Preliminary version of the code for the empirical study in "Navigating the Pitfa
 Allowing reviewers to assess the code and verify the soundness of our results concerning methodical implementations guided by the project structure.
   
 ## Project Structure
-```less
+```
 ├── src: Main Structure of project
 │   ├── data: Datasets, Augmentations & DataModules (Pytorch-Lightning)
 │   ├── models: Models with training and evaluation
